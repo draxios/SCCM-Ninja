@@ -1,0 +1,31 @@
+W:\Projects\SCCM Tool 2012\SCCM Tool 2012\bin\Debug\SCCM Ninja.exe.config
+W:\Projects\SCCM Tool 2012\SCCM Tool 2012\bin\Debug\SCCM Ninja.exe
+W:\Projects\SCCM Tool 2012\SCCM Tool 2012\bin\Debug\SCCM Ninja.pdb
+W:\Projects\SCCM Tool 2012\SCCM Tool 2012\bin\Debug\SCCM Ninja.xml
+W:\Projects\SCCM Tool 2012\SCCM Tool 2012\obj\Debug\SCCM_Tool_2012.frmMain.resources
+W:\Projects\SCCM Tool 2012\SCCM Tool 2012\obj\Debug\SCCM_Tool_2012.Resources.resources
+W:\Projects\SCCM Tool 2012\SCCM Tool 2012\obj\Debug\SCCM Tool 2012.vbproj.GenerateResource.Cache
+W:\Projects\SCCM Tool 2012\SCCM Tool 2012\obj\Debug\SCCM Ninja.exe
+W:\Projects\SCCM Tool 2012\SCCM Tool 2012\obj\Debug\SCCM Ninja.xml
+W:\Projects\SCCM Tool 2012\SCCM Tool 2012\obj\Debug\SCCM Ninja.pdb
+W:\Projects\SCCM Tool 2012\SCCM Tool 2012\obj\Debug\SCCM_Tool_2012.frmBatch.resources
+W:\Projects\SCCM Tool 2012\SCCM Tool 2012\obj\Debug\SCCM_Tool_2012.frmSettings.resources
+W:\Projects\SCCM Tool 2012\SCCM Tool 2012 LEGACY\SCCM Tool 2012\bin\Debug\SCCM Ninja.exe.config
+W:\Projects\SCCM Tool 2012\SCCM Tool 2012 LEGACY\SCCM Tool 2012\obj\Debug\SCCM Ninja.exe
+W:\Projects\SCCM Tool 2012\SCCM Tool 2012 LEGACY\SCCM Tool 2012\obj\Debug\SCCM Ninja.xml
+W:\Projects\SCCM Tool 2012\SCCM Tool 2012 LEGACY\SCCM Tool 2012\obj\Debug\SCCM Ninja.pdb
+W:\Projects\SCCM Ninja\SCCM Tool 2012\bin\Debug\SCCM Ninja.exe.config
+W:\Projects\SCCM Ninja\SCCM Tool 2012\obj\Debug\SCCM Ninja.exe
+W:\Projects\SCCM Ninja\SCCM Tool 2012\obj\Debug\SCCM Ninja.xml
+W:\Projects\SCCM Ninja\SCCM Tool 2012\obj\Debug\SCCM Ninja.pdb
+W:\Projects\SCCM Ninja\SCCM Tool 2012\bin\Debug\SCCM Ninja.exe
+W:\Projects\SCCM Ninja\SCCM Tool 2012\bin\Debug\SCCM Ninja.pdb
+W:\Projects\SCCM Ninja\SCCM Tool 2012\bin\Debug\SCCM Ninja.xml
+W:\Projects\SCCM Ninja\SCCM Tool 2012\obj\Debug\SCCM_Tool_2012.frmMain.resources
+W:\Projects\SCCM Ninja\SCCM Tool 2012\obj\Debug\SCCM_Tool_2012.Resources.resources
+W:\Projects\SCCM Ninja\SCCM Tool 2012\obj\Debug\SCCM Tool 2012.vbproj.GenerateResource.Cache
+W:\Projects\SCCM Ninja\SCCM Tool 2012\obj\Debug\SCCM_Tool_2012.frmSplash.resources
+C:\Users\e425n5\OneDrive - EHI\Projects\SCCM Ninja\SCCM Tool 2012\bin\Debug\SCCM Ninja.exe.config
+C:\Users\e425n5\OneDrive - EHI\Projects\SCCM Ninja\SCCM Tool 2012\obj\Debug\SCCM Ninja.exe
+C:\Users\e425n5\OneDrive - EHI\Projects\SCCM Ninja\SCCM Tool 2012\obj\Debug\SCCM Ninja.xml
+C:\Users\e425n5\OneDrive - EHI\Projects\SCCM Ninja\SCCM Tool 2012\obj\Debug\SCCM Ninja.pdb
