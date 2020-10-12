@@ -1,8 +1,7 @@
 ## SCCM Ninja 1.1
 ==================
 
-AUTHOR: Scott Stevens
-LAST BUILD DATE  : 04/21/2015
+By Scott Stevens
 
 To help with the addition of machines to certain IDS SCCM collections. (For pushing out software easily.)
 
