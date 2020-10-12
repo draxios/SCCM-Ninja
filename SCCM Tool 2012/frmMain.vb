@@ -4,7 +4,7 @@
 ' NAME: SCCM Ninja
 ' VERSION: 1.1.0.0
 '
-' AUTHOR: Scott Stevens, IDS
+' AUTHOR: Scott Stevens
 ' DATE  : 04/21/2015
 '
 ' COMMENT: To help with the addition of machines to certain IDS SCCM collections. (For pushing out software easily.)
