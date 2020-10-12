@@ -1,12 +1,12 @@
 ## SCCM Ninja 1.1
+==================
 
 AUTHOR: Scott Stevens
 LAST BUILD DATE  : 04/21/2015
 
 To help with the addition of machines to certain IDS SCCM collections. (For pushing out software easily.)
 
-RELEASE CHANGES: 
-=================
+RELEASE CHANGES:
 0.9.2.1 - First Stable Version
 0.9.5.0 - New version with sorting code, because now there's not two lists for names and IDs.
 0.9.6.0 - Last Ninja Version before DART/Window projects.
