@@ -6,9 +6,9 @@
     Public oResults
 
     'SCCM default config values
-    Public SiteServer As String = "ETC-CFGMGR-01.CORP.ERAC.COM"
-    Public SiteCode As String = "EH1"
-    Public COLFOLDER = "IDS"
+    Public SiteServer As String = "COMPUTERNAME.DOMAIN.COMPANY.COM"
+    Public SiteCode As String = "SITECODE1"
+    Public COLFOLDER = "COLFOLDER"
 
 
     Function AddMachineToCollection(strComputer, AddingCollectionId) As Boolean
