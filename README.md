@@ -6,13 +6,14 @@ LAST BUILD DATE  : 04/21/2015
 To help with the addition of machines to certain IDS SCCM collections. (For pushing out software easily.)
 
 RELEASE CHANGES: 
- 0.9.2.1 - First Stable Version
- 0.9.5.0 - New version with sorting code, because now there's not two lists for names and IDs.
- 0.9.6.0 - Last Ninja Version before DART/Window projects.
- 0.9.9.5 - Updated testing version, after failures with SCCM Dart/Window due to server access problems.
- 1.0.0.0 - Final version for production. Added clipboard use, scrolling collection results, progress bar, logging, batch add multiuse, design, UI, BUGS! New icons, etc.
- 1.1.0.0 - Same as above, cerimonial version.
- 1.1.1.0 - Allow clipboard of lots of names. Fixed label issues.
+=================
+0.9.2.1 - First Stable Version
+0.9.5.0 - New version with sorting code, because now there's not two lists for names and IDs.
+0.9.6.0 - Last Ninja Version before DART/Window projects.
+0.9.9.5 - Updated testing version, after failures with SCCM Dart/Window due to server access problems.
+1.0.0.0 - Final version for production. Added clipboard use, scrolling collection results, progress bar, logging, batch add multiuse, design, UI, BUGS! New icons, etc.
+1.1.0.0 - Same as above, cerimonial version.
+1.1.1.0 - Allow clipboard of lots of names. Fixed label issues.
 
 The work never ends!
 
