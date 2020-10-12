@@ -3,7 +3,7 @@
 
 By Scott Stevens
 
-To help with the addition of machines to certain IDS SCCM collections. (For pushing out software easily.)
+To help with the addition of machines to certain SCCM collections. (For pushing out software easily.)
 
 RELEASE CHANGES:
 0.9.2.1 - First Stable Version
